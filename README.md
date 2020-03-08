@@ -12,7 +12,7 @@ Ce projet est basé sur l'article "A general reinforcement learning algorithm th
 
 Contrairement aux algorithmes classiques développés pour ce genre de jeux, AlphaZero apprend tout de lui-même, on lui donne seulement les règles du jeu. 
 C’était également le cas de l’algorithme AlphaGo Zero mais ce dernier ne jouait qu’au jeu de Go. AlphaZero a cette particularité qu’il n’est pas conçu pour un jeu en particulier.
-L’apprentissage est composé de deux élements principaux : un réseau de neurones convolué etun arbre de recherche de type Monte Carlo (MCTS).
+L’apprentissage est composé de deux élements principaux : un réseau de neurones convolué et un arbre de recherche de type Monte Carlo (MCTS).
 
 
 
