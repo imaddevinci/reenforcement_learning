@@ -19,6 +19,10 @@ L’apprentissage est composé de deux élements principaux : un réseau de neur
 
 ## Implementation 
 Pour implémenter un MCTS sur le jeu du morpion, nous nous sommes appuyé sur plusieurs librairies:
-- Nous avons avons commencé par récupérer une implémentation basique du jeu du morpion en python, disponible à cette adresse: \newline \url{https://python.jpvweb.com/python/mesrecettespython/doku.php?id=morpion\_console}; \\ que nous avons nettoyé.
-- Ensuite, nous avons ajouté et adapté un algorithme MCTS à notre jeu, en utilisant la librairie mcts.py, que l'on peut retrouver ici : \newline \url{https://github.com/int8/monte-carlo-tree-search/blob/master/mctspy/tree/nodes.py}; \\
-- Enfin, nous avons ajouté un algorithme de type alpha beta et nous avons fait varier les paramètres pour comparer les performances. Nous nous sommes appuyés sur une implémentation en python, que nous avons adapté pour notre cas d'usage : \newline \url{https://stackabuse.com/minimax-and-alpha-beta-pruning-in-python/}.
+- Nous avons avons commencé par récupérer une implémentation basique du jeu du morpion en python, disponible à cette adresse: 
+https://python.jpvweb.com/python/mesrecettespython/doku.php?id=morpion\_console que nous avons nettoyé.
+- Ensuite, nous avons ajouté et adapté un algorithme MCTS à notre jeu, en utilisant la librairie mcts.py, que l'on peut retrouver ici :
+https://github.com/int8/monte-carlo-tree-search/blob/master/mctspy/tree/nodes.py
+- Enfin, nous avons ajouté un algorithme de type alpha beta et nous avons fait varier les paramètres pour comparer les performances. 
+Nous nous sommes appuyés sur une implémentation en python, que nous avons adapté pour notre cas d'usage : 
+https://stackabuse.com/minimax-and-alpha-beta-pruning-in-python/
